@@ -7,7 +7,7 @@
 Repo to show my solutions for LeetCode.
 Most questions will be in written in the C Language
 
-## Question List 
+## Question List
 
 ### [Arrays and Hashing](https://github.com/Flapjacck/Solution-Stash/tree/main/Arrays%20and%20Hashing)
 
