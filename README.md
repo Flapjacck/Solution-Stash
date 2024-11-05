@@ -17,6 +17,8 @@ Most questions will be in written in the C Language
 
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
+[82. Remove Duplicates from Sorted List II in C]()
+
 [203. Remove Linked List Elements in C](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/203.%20Remove%20Linked%20List%20Elements%20C.md)
 
 [206. Reverse Linked List in C](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
