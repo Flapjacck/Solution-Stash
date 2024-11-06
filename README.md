@@ -15,7 +15,7 @@ Most questions will be in written in the C Language
 
 [217. Contains Duplicate in C](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
-[242. Valid Anagram]()
+[242. Valid Anagram in C](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/242.%20Valid%20Anagram%20C.md)
 
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
