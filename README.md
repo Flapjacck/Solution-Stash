@@ -13,7 +13,7 @@ Most questions will be in written in the C Language
 
 [1. Two Sum in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/1.%20Two%20Sum%20C.md)
 
-[128. Longest Consecutive Sequence in C (Med.)]()
+[128. Longest Consecutive Sequence in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/128.%20Longest%20Consecutive%20Sequence%20C.md)
 
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
