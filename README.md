@@ -19,9 +19,9 @@ Most questions will be in written in the C Language
 
 [242. Valid Anagram in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/242.%20Valid%20Anagram%20C.md)
 
-### [Binary Tree's]()
+### [Binary Tree's](https://github.com/Flapjacck/Solution-Stash/tree/main/Binary%20Tree's)
 
-[94. Binary Tree Inorder Traversal in C (Easy)]()
+[94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
 
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
