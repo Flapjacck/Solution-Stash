@@ -13,6 +13,8 @@ Most questions will be in written in the C Language
 
 [1. Two Sum in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/1.%20Two%20Sum%20C.md)
 
+[121. Best Time to Buy and Sell Stock in C (Easy)](/Arrays%20and%20Hashing/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20C.md)
+
 [128. Longest Consecutive Sequence in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/128.%20Longest%20Consecutive%20Sequence%20C.md)
 
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
@@ -25,7 +27,7 @@ Most questions will be in written in the C Language
 
 [94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
 
-[226. Invert Binary Tree in C](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
+[226. Invert Binary Tree in C (Easy)](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
 
 [404. Sum of Left Leaves in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/404.%20Sum%20of%20Left%20Leaves%20C.md)
 
