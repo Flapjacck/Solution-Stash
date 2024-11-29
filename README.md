@@ -40,3 +40,7 @@ Most questions will be in written in the C Language
 [206. Reverse Linked List in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
 
 [1290. Convert Binary Number in a Linked List to Integer in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer%20C.md)
+
+### [Stacks](/Stacks/)
+
+[20. Valid Parentheses in C (Easy)](/Stacks/20.%20Valid%20Parentheses%20C.md)
