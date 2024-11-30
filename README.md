@@ -13,6 +13,8 @@ Most questions will be in written in the C Language
 
 [1. Two Sum in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/1.%20Two%20Sum%20C.md)
 
+[15. 3Sum in C (Easy)](/Arrays%20and%20Hashing/15.%203Sum%20C.md)
+
 [121. Best Time to Buy and Sell Stock in C (Easy)](/Arrays%20and%20Hashing/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20C.md)
 
 [128. Longest Consecutive Sequence in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/128.%20Longest%20Consecutive%20Sequence%20C.md)
