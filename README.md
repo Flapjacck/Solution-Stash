@@ -31,6 +31,8 @@ Most questions will be in written in the C Language
 
 [94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
 
+[144. Binary Tree Preorder Traversal in C (Easy)](/Binary%20Tree's/144.%20Binary%20Tree%20Preorder%20Traversal%20C.md)
+
 [226. Invert Binary Tree in C (Easy)](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
 
 [404. Sum of Left Leaves in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/404.%20Sum%20of%20Left%20Leaves%20C.md)
