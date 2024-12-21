@@ -37,6 +37,8 @@ Most questions will be in written in the C Language
 
 [404. Sum of Left Leaves in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/404.%20Sum%20of%20Left%20Leaves%20C.md)
 
+[700. Search in a Binary Search Tree in C (Easy)](/Binary%20Tree's/700.%20Search%20in%20a%20Binary%20Search%20Tree%20C.md)
+
 [701. Insert into a Binary Search Tree in C (Med.)](/Binary%20Tree's/701.%20Insert%20into%20a%20Binary%20Search%20Tree%20C.md)
 
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
