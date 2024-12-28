@@ -62,3 +62,5 @@ Most questions will be in written in the C Language
 ### [Stacks](/Stacks/)
 
 [20. Valid Parentheses in C (Easy)](/Stacks/20.%20Valid%20Parentheses%20C.md)
+
+[225. Implement Stack using Queues in C (Easy)](/Stacks/225.%20Implement%20Stack%20using%20Queues%20C.md)
