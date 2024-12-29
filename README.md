@@ -31,6 +31,8 @@ Most questions will be in written in the C Language
 
 [94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
 
+[100. Same Tree in C (Easy)](/Binary%20Tree's/100.%20Same%20Tree%20C.md)
+
 [110. Balanced Binary Tree in C (Easy)](/Binary%20Tree's/110.%20Balanced%20Binary%20Tree%20C.md)
 
 [144. Binary Tree Preorder Traversal in C (Easy)](/Binary%20Tree's/144.%20Binary%20Tree%20Preorder%20Traversal%20C.md)
