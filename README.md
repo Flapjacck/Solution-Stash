@@ -33,6 +33,8 @@ Most questions will be in written in the C Language
 
 [100. Same Tree in C (Easy)](/Binary%20Tree's/100.%20Same%20Tree%20C.md)
 
+[104. Maximum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/104.%20Maximum%20Depth%20of%20Binary%20Tree%20C.md)
+
 [110. Balanced Binary Tree in C (Easy)](/Binary%20Tree's/110.%20Balanced%20Binary%20Tree%20C.md)
 
 [144. Binary Tree Preorder Traversal in C (Easy)](/Binary%20Tree's/144.%20Binary%20Tree%20Preorder%20Traversal%20C.md)
