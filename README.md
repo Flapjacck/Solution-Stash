@@ -5,7 +5,7 @@
 # Solution-Stash
 
 Repo to show my solutions for LeetCode.
-Most questions will be in written in the C Language
+Most questions will be in written in the C or Java Language
 
 ## Question List
 
@@ -21,7 +21,7 @@ Most questions will be in written in the C Language
 
 [128. Longest Consecutive Sequence in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/128.%20Longest%20Consecutive%20Sequence%20C.md)
 
-[136. Single Number in C (Easy)](/Arrays%20and%20Hashing/136.%20Single%20Number%20C.md)
+[136. Single Number in Java (Easy)](/Arrays%20and%20Hashing/136.%20Single%20Number%20Java.md)
 
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
