@@ -41,6 +41,8 @@ Most questions will be in written in the C or Java Language
 
 [111. Minimum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/111.%20Minimum%20Depth%20of%20Binary%20Tree%20C.md)
 
+[112. Path Sum in Java (Easy)](/Binary%20Tree's/112.%20Path%20Sum%20Java.md)
+
 [144. Binary Tree Preorder Traversal in C (Easy)](/Binary%20Tree's/144.%20Binary%20Tree%20Preorder%20Traversal%20C.md)
 
 [222. Count Complete Tree Nodes](/Binary%20Tree's/222.%20Count%20Complete%20Tree%20Nodes%20C.md)
