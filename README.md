@@ -27,6 +27,8 @@ Most questions will be in written in the C or Java Language
 
 [242. Valid Anagram in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/242.%20Valid%20Anagram%20C.md)
 
+[283. Move Zeroes in Java (Easy)](/Arrays%20and%20Hashing/283.%20Move%20Zeroes%20Java.md)
+
 [347. Top K Frequent Elements in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/347.%20Top%20K%20Frequent%20Elements%20C.md)
 
 ### [Binary Tree's](https://github.com/Flapjacck/Solution-Stash/tree/main/Binary%20Tree's)
