@@ -39,6 +39,8 @@ Most questions will be in written in the C or Java Language
 
 [104. Maximum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/104.%20Maximum%20Depth%20of%20Binary%20Tree%20C.md)
 
+[108. Convert Sorted Array to Binary Search Tree in Java (Easy)](/Binary%20Tree's/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree%20Java.md)
+
 [110. Balanced Binary Tree in C (Easy)](/Binary%20Tree's/110.%20Balanced%20Binary%20Tree%20C.md)
 
 [111. Minimum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/111.%20Minimum%20Depth%20of%20Binary%20Tree%20C.md)
