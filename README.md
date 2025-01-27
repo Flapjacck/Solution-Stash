@@ -53,6 +53,8 @@ Most questions will be in written in the C or Java Language
 
 [226. Invert Binary Tree in C (Easy)](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
 
+[257. Binary Tree Paths in Java (Easy)](/Binary%20Tree's/257.%20Binary%20Tree%20Paths%20Java.md)
+
 [404. Sum of Left Leaves in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/404.%20Sum%20of%20Left%20Leaves%20C.md)
 
 [501. Find Mode in Binary Search Tree in C (Easy)](/Binary%20Tree's/501.%20Find%20Mode%20in%20Binary%20Search%20Tree%20C.md)
