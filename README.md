@@ -90,3 +90,5 @@ Most questions will be in written in the C or Java Language
 [168. Excel Sheet Column Title in Java (Easy)](/String/168.%20Excel%20Sheet%20Column%20Title%20Java.md)
 
 [344. Reverse String in Java (Easy)](/String/344.%20Reverse%20String%20Java.md)
+
+[389. Find the Difference Java (Easy)](/String/389.%20Find%20the%20Difference%20Java.md)
