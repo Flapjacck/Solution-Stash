@@ -23,6 +23,8 @@ Most questions will be in written in the C or Java Language
 
 [136. Single Number in Java (Easy)](/Arrays%20and%20Hashing/136.%20Single%20Number%20Java.md)
 
+[169. Majority Element in Java (Easy)](/Arrays%20and%20Hashing/169.%20Majority%20Element%20Java.md)
+
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
 [242. Valid Anagram in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/242.%20Valid%20Anagram%20C.md)
