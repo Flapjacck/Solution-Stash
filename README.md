@@ -98,3 +98,5 @@ Most questions will be in written in the C or Java Language
 [344. Reverse String in Java (Easy)](/String/344.%20Reverse%20String%20Java.md)
 
 [389. Find the Difference Java (Easy)](/String/389.%20Find%20the%20Difference%20Java.md)
+
+[520. Detect Capital in Java (Easy)](/String/520.%20Detect%20Capital%20Java.md)
