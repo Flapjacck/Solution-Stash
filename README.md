@@ -99,4 +99,6 @@ Most questions will be in written in the C or Java Language
 
 [389. Find the Difference Java (Easy)](/String/389.%20Find%20the%20Difference%20Java.md)
 
+[412. Fizz Buzz in Java (Easy)](/String/412.%20Fizz%20Buzz%20Java.md)
+
 [520. Detect Capital in Java (Easy)](/String/520.%20Detect%20Capital%20Java.md)
