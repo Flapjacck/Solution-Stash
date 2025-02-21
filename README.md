@@ -67,7 +67,9 @@ Most questions will be in written in the C or Java Language
 
 ### [Bits](/Bits/)
 
-[371. Sum of Two Integers In java (Med.)](/Bits/371.%20Sum%20of%20Two%20Integers%20Java.md)
+[190. Reverse Bits in Java (Easy)](/Bits/190.%20Reverse%20Bits%20Java.md)
+
+[371. Sum of Two Integers in java (Med.)](/Bits/371.%20Sum%20of%20Two%20Integers%20Java.md)
 
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
