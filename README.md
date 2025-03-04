@@ -119,4 +119,6 @@ Most questions will be in written in the C or Java Language
 
 [412. Fizz Buzz in Java (Easy)](/String/412.%20Fizz%20Buzz%20Java.md)
 
+[415. Add Strings in Java (Easy)](/String/415.%20Add%20Strings%20Java.md)
+
 [520. Detect Capital in Java (Easy)](/String/520.%20Detect%20Capital%20Java.md)
