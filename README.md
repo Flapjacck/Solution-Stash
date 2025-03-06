@@ -79,6 +79,8 @@ Most questions will be in written in the C or Java Language
 
 [190. Reverse Bits in Java (Easy)](/Bits/190.%20Reverse%20Bits%20Java.md)
 
+[191. Number of 1 Bits in Java (Easy)](/Bits/191.%20Number%20of%201%20Bits%20Java.md)
+
 [338. Counting Bits in Java (Easy)](/Bits/338.%20Counting%20Bits%20Java.md)
 
 [371. Sum of Two Integers in java (Med.)](/Bits/371.%20Sum%20of%20Two%20Integers%20Java.md)
