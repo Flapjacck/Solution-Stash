@@ -93,6 +93,8 @@ Most questions will be in written in the C or Java Language
 
 [82. Remove Duplicates from Sorted List II in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II%20C.md)
 
+[141. Linked List Cycle in Java (Easy)](/Linked%20Lists/141.%20Linked%20List%20Cycle%20Java.md)
+
 [203. Remove Linked List Elements in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/203.%20Remove%20Linked%20List%20Elements%20C.md)
 
 [206. Reverse Linked List in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
