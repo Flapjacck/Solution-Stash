@@ -71,6 +71,8 @@ Most questions will be in written in the C or Java Language
 
 [501. Find Mode in Binary Search Tree in C (Easy)](/Binary%20Tree's/501.%20Find%20Mode%20in%20Binary%20Search%20Tree%20C.md)
 
+[530. Minimum Absolute Difference in BST in Java (Easy)](/Binary%20Tree's/530.%20Minimum%20Absolute%20Difference%20in%20BST%20Java.md)
+
 [700. Search in a Binary Search Tree in C (Easy)](/Binary%20Tree's/700.%20Search%20in%20a%20Binary%20Search%20Tree%20C.md)
 
 [701. Insert into a Binary Search Tree in C (Med.)](/Binary%20Tree's/701.%20Insert%20into%20a%20Binary%20Search%20Tree%20C.md)
