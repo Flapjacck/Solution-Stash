@@ -15,6 +15,8 @@ Most questions will be in written in the C or Java Language
 
 [15. 3Sum in C (Easy)](/Arrays%20and%20Hashing/15.%203Sum%20C.md)
 
+[27. Remove Element in Java (Easy)](/Arrays%20and%20Hashing/27.%20Remove%20Element%20Java.md)
+
 [66. Plus One in Java (Easy)](/Arrays%20and%20Hashing/66.%20Plus%20One%20Java.md)
 
 [88. Merge Sorted Array in C (Easy)](/Arrays%20and%20Hashing/88.%20Merge%20Sorted%20Array%20%20C.md)
