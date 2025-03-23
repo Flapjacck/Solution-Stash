@@ -111,6 +111,8 @@ Most questions will be in written in the C or Java Language
 
 [225. Implement Stack using Queues in C (Easy)](/Stacks/225.%20Implement%20Stack%20using%20Queues%20C.md)
 
+[232. Implement Queue using Stacks in Java (Easy)](/Stacks/232.%20Implement%20Queue%20using%20Stacks%20Java.md)
+
 ### [String](/String/)
 
 [67. Add Binary in Java (Easy)](/String/67.%20Add%20Binary%20Java.md)
