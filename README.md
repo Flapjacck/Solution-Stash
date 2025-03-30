@@ -49,6 +49,8 @@ Most questions will be in written in the C or Java Language
 
 [94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
 
+[96. Unique Binary Search Trees in Java (Med.)](/Binary%20Tree's/96.%20Unique%20Binary%20Search%20Trees%20Java.md)
+
 [100. Same Tree in C (Easy)](/Binary%20Tree's/100.%20Same%20Tree%20C.md)
 
 [104. Maximum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/104.%20Maximum%20Depth%20of%20Binary%20Tree%20C.md)
