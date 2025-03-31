@@ -81,6 +81,8 @@ Most questions will be in written in the C or Java Language
 
 [617. Merge Two Binary Trees in Java (Easy)](/Binary%20Tree's/617.%20Merge%20Two%20Binary%20Trees%20Java.md)
 
+[637. Average of Levels in Binary Tree in Java (Easy)](/Binary%20Tree's/637.%20Average%20of%20Levels%20in%20Binary%20Tree%20Java.md)
+
 [700. Search in a Binary Search Tree in C (Easy)](/Binary%20Tree's/700.%20Search%20in%20a%20Binary%20Search%20Tree%20C.md)
 
 [701. Insert into a Binary Search Tree in C (Med.)](/Binary%20Tree's/701.%20Insert%20into%20a%20Binary%20Search%20Tree%20C.md)
