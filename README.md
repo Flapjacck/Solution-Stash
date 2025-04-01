@@ -97,6 +97,8 @@ Most questions will be in written in the C or Java Language
 
 [371. Sum of Two Integers in java (Med.)](/Bits/371.%20Sum%20of%20Two%20Integers%20Java.md)
 
+[868. Binary Gap in Java (Easy)](/Bits/868.%20Binary%20Gap%20Java.md)
+
 ### [Linked Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
 [21. Merge Two Sorted Lists in C (Easy)](/Linked%20Lists/21.%20Merge%20Two%20Sorted%20Lists%20C.md)
