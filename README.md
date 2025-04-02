@@ -35,6 +35,8 @@ Most questions will be in written in the C or Java Language
 
 [242. Valid Anagram in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/242.%20Valid%20Anagram%20C.md)
 
+[258. Add Digits in Java (Easy)](/Arrays%20and%20Hashing/258.%20Add%20Digits%20Java.md)
+
 [268. Missing Number in Java (Easy)](/Arrays%20and%20Hashing/268.%20Missing%20Number%20Java.md)
 
 [283. Move Zeroes in Java (Easy)](/Arrays%20and%20Hashing/283.%20Move%20Zeroes%20Java.md)
