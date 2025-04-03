@@ -115,6 +115,8 @@ Most questions will be in written in the C or Java Language
 
 [206. Reverse Linked List in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
 
+[237. Delete Node in a Linked List in Java (Med.)](/Linked%20Lists/237.%20Delete%20Node%20in%20a%20Linked%20List%20Java.md)
+
 [1290. Convert Binary Number in a Linked List to Integer in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer%20C.md)
 
 ### [Stacks](/Stacks/)
