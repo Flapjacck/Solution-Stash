@@ -139,6 +139,8 @@ Most questions will be in written in the C or Java Language
 
 [344. Reverse String in Java (Easy)](/String/344.%20Reverse%20String%20Java.md)
 
+[345. Reverse Vowels of a String in Java (Easy)](/String/345.%20Reverse%20Vowels%20of%20a%20String%20Java.md)
+
 [387. First Unique Character in a String in Java (Easy)](/String/387.%20First%20Unique%20Character%20in%20a%20String%20Java.md)
 
 [389. Find the Difference Java (Easy)](/String/389.%20Find%20the%20Difference%20Java.md)
