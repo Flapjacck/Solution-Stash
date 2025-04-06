@@ -137,6 +137,8 @@ Most questions will be in written in the C or Java Language
 
 [205. Isomorphic Strings in Java (Easy)](/String/205.%20Isomorphic%20Strings%20Java.md)
 
+[242. Valid Anagram in Java (Easy)](/String/242.%20Valid%20Anagram%20Java.md)
+
 [290. Word Pattern in Java (Easy)](/String/290.%20Word%20Pattern%20Java.md)
 
 [344. Reverse String in Java (Easy)](/String/344.%20Reverse%20String%20Java.md)
