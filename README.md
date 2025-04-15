@@ -137,6 +137,8 @@ Most questions will be in written in the C or Java Language
 
 ### [String](/String/)
 
+[58. Length of Last Word Python (Easy)](/String/58.%20Length%20of%20Last%20Word%20Python.md)
+
 [67. Add Binary in Java (Easy)](/String/67.%20Add%20Binary%20Java.md)
 
 [168. Excel Sheet Column Title in Java (Easy)](/String/168.%20Excel%20Sheet%20Column%20Title%20Java.md)
