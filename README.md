@@ -19,6 +19,8 @@ Most questions will be in written in the C or Java Language
 
 [66. Plus One in Java (Easy)](/Arrays%20and%20Hashing/66.%20Plus%20One%20Java.md)
 
+[75. Sort Colors in Python (Med.)](/Arrays%20and%20Hashing/75.%20Sort%20Colors%20Python.md)
+
 [78. Subsets in Java (Med.)](/Arrays%20and%20Hashing/78.%20Subsets%20Java.md)
 
 [88. Merge Sorted Array in C (Easy)](/Arrays%20and%20Hashing/88.%20Merge%20Sorted%20Array%20%20C.md)
