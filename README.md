@@ -5,7 +5,6 @@
 # Solution-Stash
 
 Repo to show my solutions for LeetCode.
-Most questions will be in written in the C or Java Language
 
 ## Question List
 
@@ -88,6 +87,8 @@ Most questions will be in written in the C or Java Language
 [310. Minimum Height Trees in Python (Med.)](/Binary%20Tree's/310.%20Minimum%20Height%20Trees%20Python.md)
 
 [404. Sum of Left Leaves in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/404.%20Sum%20of%20Left%20Leaves%20C.md)
+
+[450. Delete Node in a BST in python (Med.)](/Binary%20Tree's/450.%20Delete%20Node%20in%20a%20BST%20Python.md)
 
 [501. Find Mode in Binary Search Tree in C (Easy)](/Binary%20Tree's/501.%20Find%20Mode%20in%20Binary%20Search%20Tree%20C.md)
 
