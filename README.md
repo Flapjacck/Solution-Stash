@@ -48,6 +48,8 @@ Repo to show my solutions for LeetCode.
 
 [283. Move Zeroes in Java (Easy)](/Arrays%20and%20Hashing/283.%20Move%20Zeroes%20Java.md)
 
+[324. Wiggle Sort II in Python (Med.)](/Arrays%20and%20Hashing/324.%20Wiggle%20Sort%20II%20Python.md)
+
 [347. Top K Frequent Elements in C (Med.)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/347.%20Top%20K%20Frequent%20Elements%20C.md)
 
 [349. Intersection of Two Arrays in Java (Easy)](/Arrays%20and%20Hashing/349.%20Intersection%20of%20Two%20Arrays%20Java.md)
