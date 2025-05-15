@@ -56,6 +56,8 @@ Repo to show my solutions for LeetCode.
 
 [463. Island Perimeter in Java (Easy)](/Arrays%20and%20Hashing/463.%20Island%20Perimeter%20Java.md)
 
+[448. Find All Numbers Disappeared in an Array in Python (Easy)](/Arrays%20and%20Hashing/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20Python.md)
+
 [628. Maximum Product of Three Numbers in python (Easy)](/Arrays%20and%20Hashing/628.%20Maximum%20Product%20of%20Three%20Numbers%20python.md)
 
 ### [Binary Tree's](https://github.com/Flapjacck/Solution-Stash/tree/main/Binary%20Tree's)
