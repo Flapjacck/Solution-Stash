@@ -174,6 +174,8 @@ Repo to show my solutions for LeetCode.
 
 [392. Is Subsequence In Java (Easy)](/String/392.%20Is%20Subsequence%20Java.md)
 
+[394. Decode String in Python (Med.)](/String/394.%20Decode%20String%20Python.md)
+
 [412. Fizz Buzz in Java (Easy)](/String/412.%20Fizz%20Buzz%20Java.md)
 
 [415. Add Strings in Java (Easy)](/String/415.%20Add%20Strings%20Java.md)
