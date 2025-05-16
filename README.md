@@ -183,3 +183,5 @@ Repo to show my solutions for LeetCode.
 [415. Add Strings in Java (Easy)](/String/415.%20Add%20Strings%20Java.md)
 
 [520. Detect Capital in Java (Easy)](/String/520.%20Detect%20Capital%20Java.md)
+
+[567. Permutation in String in Python (Med.)](/String/567.%20Permutation%20in%20String%20Python.md)
