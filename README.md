@@ -156,6 +156,8 @@ Repo to show my solutions for LeetCode.
 
 [67. Add Binary in Java (Easy)](/String/67.%20Add%20Binary%20Java.md)
 
+[125. Valid Palindrome in Python (Easy)](/String/125.%20Valid%20Palindrome%20Python.md)
+
 [151. Reverse Words in a String Python (Med.)](/String/151.%20Reverse%20Words%20in%20a%20String%20Python.md)
 
 [168. Excel Sheet Column Title in Java (Easy)](/String/168.%20Excel%20Sheet%20Column%20Title%20Java.md)
