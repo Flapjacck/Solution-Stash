@@ -34,6 +34,8 @@ Repo to show my solutions for LeetCode.
 
 [179. Largest Number in Java (Med.)](/Arrays%20and%20Hashing/179.%20Largest%20Number%20Java.md)
 
+[189. Rotate Array in Python (Med.)](/Arrays%20and%20Hashing/189.%20Rotate%20Array%20Python.md)
+
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
 [228. Summary Ranges in Java (Easy)](/Arrays%20and%20Hashing/228.%20Summary%20Ranges%20Java.md)
