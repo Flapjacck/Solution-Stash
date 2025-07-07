@@ -30,6 +30,8 @@ Repo to show my solutions for LeetCode.
 
 [136. Single Number in Java (Easy)](/Arrays%20and%20Hashing/136.%20Single%20Number%20Java.md)
 
+[153. Find Minimum in Rotated Sorted Array in Python (Med.)](/Arrays%20and%20Hashing/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20Python.md)
+
 [169. Majority Element in Java (Easy)](/Arrays%20and%20Hashing/169.%20Majority%20Element%20Java.md)
 
 [179. Largest Number in Java (Med.)](/Arrays%20and%20Hashing/179.%20Largest%20Number%20Java.md)
