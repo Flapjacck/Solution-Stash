@@ -40,6 +40,8 @@ Repo to show my solutions for LeetCode.
 
 [217. Contains Duplicate in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate%20C.md)
 
+[221. Maximal Square in Python (Med.)](/Arrays%20and%20Hashing/221.%20Maximal%20Square%20Python.md)
+
 [228. Summary Ranges in Java (Easy)](/Arrays%20and%20Hashing/228.%20Summary%20Ranges%20Java.md)
 
 [238. Product of Array Except Self in Java (Med.)](/Arrays%20and%20Hashing/238.%20Product%20of%20Array%20Except%20Self%20Java.md)
