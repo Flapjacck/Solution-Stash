@@ -60,6 +60,8 @@ Repo to show my solutions for LeetCode.
 
 [349. Intersection of Two Arrays in Java (Easy)](/Arrays%20and%20Hashing/349.%20Intersection%20of%20Two%20Arrays%20Java.md)
 
+[350. Intersection of Two Arrays II in C (Easy)](/Arrays%20and%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II%20C.md)
+
 [463. Island Perimeter in Java (Easy)](/Arrays%20and%20Hashing/463.%20Island%20Perimeter%20Java.md)
 
 [448. Find All Numbers Disappeared in an Array in Python (Easy)](/Arrays%20and%20Hashing/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20Python.md)
