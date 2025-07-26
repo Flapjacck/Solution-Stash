@@ -14,6 +14,8 @@ Repo to show my solutions for LeetCode.
 
 [15. 3Sum in C (Easy)](/Arrays%20and%20Hashing/15.%203Sum%20C.md)
 
+[26. Remove Duplicates from Sorted Array in Python (Easy)](/Arrays%20and%20Hashing/26.%20Remove%20Duplicates%20from%20Sorted%20Array%20Python.md)
+
 [27. Remove Element in Java (Easy)](/Arrays%20and%20Hashing/27.%20Remove%20Element%20Java.md)
 
 [66. Plus One in Java (Easy)](/Arrays%20and%20Hashing/66.%20Plus%20One%20Java.md)
