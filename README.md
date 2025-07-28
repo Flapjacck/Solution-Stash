@@ -162,6 +162,8 @@ Repo to show my solutions for LeetCode.
 
 ### [String](/String/)
 
+[28. Find the Index of the First Occurrence in a String in Python (Easy)](/String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String%20Python.md)
+
 [58. Length of Last Word Python (Easy)](/String/58.%20Length%20of%20Last%20Word%20Python.md)
 
 [67. Add Binary in Java (Easy)](/String/67.%20Add%20Binary%20Java.md)
