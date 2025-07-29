@@ -92,6 +92,8 @@ Repo to show my solutions for LeetCode.
 
 [144. Binary Tree Preorder Traversal in C (Easy)](/Binary%20Tree's/144.%20Binary%20Tree%20Preorder%20Traversal%20C.md)
 
+[145. Binary Tree Postorder Traversal in Python (Easy)](/Binary%20Tree's/145.%20Binary%20Tree%20Postorder%20Traversal%20Python.md)
+
 [222. Count Complete Tree Nodes](/Binary%20Tree's/222.%20Count%20Complete%20Tree%20Nodes%20C.md)
 
 [226. Invert Binary Tree in C (Easy)](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
