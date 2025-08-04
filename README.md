@@ -146,6 +146,8 @@ Repo to show my solutions for LeetCode.
 
 [141. Linked List Cycle in Java (Easy)](/Linked%20Lists/141.%20Linked%20List%20Cycle%20Java.md)
 
+[148. Sort List in Python (Med.)](/Linked%20Lists/148.%20Sort%20List%20Python.md)
+
 [203. Remove Linked List Elements in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/203.%20Remove%20Linked%20List%20Elements%20C.md)
 
 [206. Reverse Linked List in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
