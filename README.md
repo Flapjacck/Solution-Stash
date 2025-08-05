@@ -136,6 +136,8 @@ Repo to show my solutions for LeetCode.
 
 ### [Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
+[2. Add Two Numbers in Python (Med.)](/Linked%20Lists/2.%20Add%20Two%20Numbers%20Python.md)
+
 [21. Merge Two Sorted Lists in C (Easy)](/Linked%20Lists/21.%20Merge%20Two%20Sorted%20Lists%20C.md)
 
 [35. Search Insert Position in C (Easy)](/Linked%20Lists/35.%20Search%20Insert%20Position%20C.md)
