@@ -150,6 +150,8 @@ Repo to show my solutions for LeetCode.
 
 [148. Sort List in Python (Med.)](/Linked%20Lists/148.%20Sort%20List%20Python.md)
 
+[160. Intersection of Two Linked Lists in C (Easy)](/Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists%20C.md)
+
 [203. Remove Linked List Elements in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/203.%20Remove%20Linked%20List%20Elements%20C.md)
 
 [206. Reverse Linked List in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List%20C.md)
