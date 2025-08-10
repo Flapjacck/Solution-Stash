@@ -207,3 +207,7 @@ Repo to show my solutions for LeetCode.
 [520. Detect Capital in Java (Easy)](/String/520.%20Detect%20Capital%20Java.md)
 
 [567. Permutation in String in Python (Med.)](/String/567.%20Permutation%20in%20String%20Python.md)
+
+### [Math](/Math/)
+
+[9. Palindrome Number in C (Easy)](/Math/9.%20Palindrome%20Number%20C.md)
