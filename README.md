@@ -211,3 +211,5 @@ Repo to show my solutions for LeetCode.
 ### [Math](/Math/)
 
 [9. Palindrome Number in C (Easy)](/Math/9.%20Palindrome%20Number%20C.md)
+
+[69. Sqrt(x) in C (Easy)](/Math/69.%20Sqrt(x)%20C.md)
