@@ -215,3 +215,5 @@ Repo to show my solutions for LeetCode.
 [69. Sqrt(x) in C (Easy)](/Math/69.%20Sqrt(x)%20C.md)
 
 [70. Climbing Stairs in C (Easy)](/Math/70.%20Climbing%20Stairs%20C.md)
+
+[202. Happy Number in C (Easy)](/Math/202.%20Happy%20Number%20C.md)
