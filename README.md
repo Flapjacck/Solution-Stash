@@ -217,3 +217,5 @@ Repo to show my solutions for LeetCode.
 [70. Climbing Stairs in C (Easy)](/Math/70.%20Climbing%20Stairs%20C.md)
 
 [202. Happy Number in C (Easy)](/Math/202.%20Happy%20Number%20C.md)
+
+[204. Count Primes in C (Med.)](/Math/204.%20Count%20Primes%20C.md)
