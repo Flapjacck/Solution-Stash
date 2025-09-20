@@ -221,3 +221,5 @@ Repo to show my solutions for LeetCode.
 [202. Happy Number in C (Easy)](/Math/202.%20Happy%20Number%20C.md)
 
 [204. Count Primes in C (Med.)](/Math/204.%20Count%20Primes%20C.md)
+
+[326. Power of Three in C (Easy)](/Math/326.%20Power%20of%20Three%20in%20C.md)
