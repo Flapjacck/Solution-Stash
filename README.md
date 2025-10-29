@@ -24,6 +24,8 @@ Repo to show my solutions for LeetCode.
 
 [78. Subsets in Java (Med.)](/Arrays%20and%20Hashing/78.%20Subsets%20Java.md)
 
+[80. Remove Duplicates from Sorted Array II in C (Med.)](/Arrays%20and%20Hashing/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20C.md)
+
 [88. Merge Sorted Array in C (Easy)](/Arrays%20and%20Hashing/88.%20Merge%20Sorted%20Array%20%20C.md)
 
 [121. Best Time to Buy and Sell Stock in C (Easy)](/Arrays%20and%20Hashing/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20C.md)
