@@ -80,6 +80,8 @@ Repo to show my solutions for LeetCode.
 
 [100. Same Tree in C (Easy)](/Binary%20Tree's/100.%20Same%20Tree%20C.md)
 
+[101. Symmetric Tree in C (Easy)](/Binary%20Tree's/101.%20Symmetric%20Tree%20C.md)
+
 [102. Binary Tree Level Order Traversal](/Binary%20Tree's/102.%20Binary%20Tree%20Level%20Order%20Traversal%20Python.md)
 
 [104. Maximum Depth of Binary Tree in C (Easy)](/Binary%20Tree's/104.%20Maximum%20Depth%20of%20Binary%20Tree%20C.md)
