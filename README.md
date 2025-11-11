@@ -102,6 +102,8 @@ Repo to show my solutions for LeetCode.
 
 [226. Invert Binary Tree in C (Easy)](/Binary%20Tree's/226.%20Invert%20Binary%20Tree%20C.md)
 
+[230. Kth Smallest Element in a BST in C (Easy)](/Binary%20Tree's/230.%20Kth%20Smallest%20Element%20in%20a%20BST%20in%20C.md)
+
 [257. Binary Tree Paths in Java (Easy)](/Binary%20Tree's/257.%20Binary%20Tree%20Paths%20Java.md)
 
 [310. Minimum Height Trees in Python (Med.)](/Binary%20Tree's/310.%20Minimum%20Height%20Trees%20Python.md)
@@ -141,6 +143,8 @@ Repo to show my solutions for LeetCode.
 ### [Lists](https://github.com/Flapjacck/Solution-Stash/tree/main/Linked%20Lists)
 
 [2. Add Two Numbers in Python (Med.)](/Linked%20Lists/2.%20Add%20Two%20Numbers%20Python.md)
+
+[19. Remove Nth Node From End of List in C (Med.)](/Linked%20Lists/19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20in%20C.md)
 
 [21. Merge Two Sorted Lists in C (Easy)](/Linked%20Lists/21.%20Merge%20Two%20Sorted%20Lists%20C.md)
 
