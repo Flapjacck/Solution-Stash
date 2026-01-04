@@ -72,6 +72,8 @@ Repo to show my solutions for LeetCode.
 
 [628. Maximum Product of Three Numbers in python (Easy)](/Arrays%20and%20Hashing/628.%20Maximum%20Product%20of%20Three%20Numbers%20python.md)
 
+[704. Binary Search in C (Easy)](/Arrays%20and%20Hashing/704.%20Binary%20Search%20C.md)
+
 ### [Binary Tree's](https://github.com/Flapjacck/Solution-Stash/tree/main/Binary%20Tree's)
 
 [94. Binary Tree Inorder Traversal in C (Easy)](https://github.com/Flapjacck/Solution-Stash/blob/main/Binary%20Tree's/94.%20Binary%20Tree%20Inorder%20Traversal%20C.md)
