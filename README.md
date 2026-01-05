@@ -136,6 +136,8 @@ Repo to show my solutions for LeetCode.
 
 [191. Number of 1 Bits in Java (Easy)](/Bits/191.%20Number%20of%201%20Bits%20Java.md)
 
+[231. Power of Two in C (Easy)](/Bits/231.%20Power%20of%20Two%20C.md)
+
 [338. Counting Bits in Java (Easy)](/Bits/338.%20Counting%20Bits%20Java.md)
 
 [371. Sum of Two Integers in java (Med.)](/Bits/371.%20Sum%20of%20Two%20Integers%20Java.md)
