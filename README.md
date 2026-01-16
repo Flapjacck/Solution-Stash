@@ -18,6 +18,8 @@ Repo to show my solutions for LeetCode.
 
 [27. Remove Element in Java (Easy)](/Arrays%20and%20Hashing/27.%20Remove%20Element%20Java.md)
 
+[46. Permutations in Python (Med.)](/Arrays%20and%20Hashing/46.%20Permutations%20Python.md)
+
 [66. Plus One in Java (Easy)](/Arrays%20and%20Hashing/66.%20Plus%20One%20Java.md)
 
 [75. Sort Colors in Python (Med.)](/Arrays%20and%20Hashing/75.%20Sort%20Colors%20Python.md)
